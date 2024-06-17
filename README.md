@@ -13,8 +13,17 @@ A forma de identificação é feita pelo Nº do processo. Em seguida, temos a p�
 
 ## Funcionalidades
 - Apresentação de dados em forma de Dashbord.
+  
+  ![DASH UI](https://github.com/francovinicius/sistema-de-gest-o-advocacia-full/blob/main/assets/img/dash.png)
+  
 - Apresentação resumida de processos.
+
+  ![PROCESSOS UI](https://github.com/francovinicius/sistema-de-gest-o-advocacia-full/blob/main/assets/img/processos.png)
+
 - Apresentação detalhada de processos.
+
+  ![DETALHES UI](https://github.com/francovinicius/sistema-de-gest-o-advocacia-full/blob/main/assets/img/detalhe.png)
+  
 - Integração com Banco de Dados.
 
 ## Contribuição
